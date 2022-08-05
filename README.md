@@ -1,0 +1,2 @@
+# python-string-encrypter-cum-decrypter
+PSED is an Encrypter as well as a Decrypter tool program which generates a unique key and uses it to Encrypt a message or it can use an existing key to decrypt a message that had been encrypted using the said key. Each key has a uniqueness of being 1 in 69! possible keys, in more exact terms, 1 in 1.71122452428e+98 keys. PSED is currently only a cli tool and only supports the Latin Alphabets, Numeric Digits 0-9 and common punctuation symbols. This is still work in progress. Contributions and Pull Requests will be appreciated.
